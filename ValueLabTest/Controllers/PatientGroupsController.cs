@@ -18,7 +18,7 @@ namespace ValueLabTest.Controllers
         {
             PatientGroupVM result = new PatientGroupVM();
 
-
+            //Adding comment ot check git push
 
             return result;
         }
