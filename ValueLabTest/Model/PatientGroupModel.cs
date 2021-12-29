@@ -7,6 +7,6 @@ namespace ValueLabTest.Model
 {
     public class PatientGroupModel
     {
-        public List<List<int>> Matrix { get; set; }
+        public int[,] Matrix { get; set; }
     }
 }
